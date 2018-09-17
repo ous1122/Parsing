@@ -12,6 +12,7 @@
 		E5E13B14214F71D400C8EECD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5E13B12214F71D400C8EECD /* Main.storyboard */; };
 		E5E13B16214F71D600C8EECD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5E13B15214F71D600C8EECD /* Assets.xcassets */; };
 		E5E13B19214F71D600C8EECD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5E13B17214F71D600C8EECD /* LaunchScreen.storyboard */; };
+		E5E13B21214F790300C8EECD /* Fruit.xml in Resources */ = {isa = PBXBuildFile; fileRef = E5E13B20214F790300C8EECD /* Fruit.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E5E13B15214F71D600C8EECD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5E13B18214F71D600C8EECD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E5E13B1A214F71D600C8EECD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E5E13B20214F790300C8EECD /* Fruit.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = Fruit.xml; path = "../../../../Documents/Fruit-XML-Parsing-Data-Class/Fruit Parsing 03/Fruit.xml"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E5E13B12214F71D400C8EECD /* Main.storyboard */,
 				E5E13B15214F71D600C8EECD /* Assets.xcassets */,
 				E5E13B17214F71D600C8EECD /* LaunchScreen.storyboard */,
+				E5E13B20214F790300C8EECD /* Fruit.xml */,
 				E5E13B1A214F71D600C8EECD /* Info.plist */,
 			);
 			path = Parsing;
@@ -124,6 +127,7 @@
 			files = (
 				E5E13B19214F71D600C8EECD /* LaunchScreen.storyboard in Resources */,
 				E5E13B16214F71D600C8EECD /* Assets.xcassets in Resources */,
+				E5E13B21214F790300C8EECD /* Fruit.xml in Resources */,
 				E5E13B14214F71D400C8EECD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
